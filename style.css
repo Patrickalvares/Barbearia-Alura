@@ -1,4 +1,4 @@
-﻿body {
+body {
 	font-family: 'Montserrat', sans-serif;
 }
 
@@ -94,8 +94,13 @@ footer {
 	margin: 20px 0 0;
 }
 
-main {
-	
+.fundo-contato {
+	background: linear-gradient(#FEFEFE, #888888);
+}
+
+.menu-contato{
+    width: 940px;
+    margin: 0 auto;
 }
 
 form {
@@ -139,6 +144,7 @@ form label, form legend {
 
 table {
 	margin: 20px 0 40px;
+	background-color: #FFFFFF;
 }
 
 thead {
